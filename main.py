@@ -2,6 +2,8 @@
 COVID ESCAPE
 
 CREATED BY JAZ BALIOLA
+
+APRIL 05 2021
 """
 
 import pygame
