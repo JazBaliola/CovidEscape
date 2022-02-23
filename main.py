@@ -1,4 +1,8 @@
+"""
+COVID ESCAPE
 
+CREATED BY JAZ BALIOLA
+"""
 
 import pygame
 import os
