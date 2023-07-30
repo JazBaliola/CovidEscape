@@ -35,7 +35,7 @@ This is the first game I created using Pygame it is a set of Python modules desi
 
 ### Links 🔗
 
-Visit my [Website](https://jazbaliola.ml) or my [LinkedIn](https://www.linkedin.com/in/jazbaliola/). <br/>
+Visit my [Website](https://jazcodeit.me) or my [LinkedIn](https://www.linkedin.com/in/jazbaliola/). <br/>
 Game Previews 📷[Instagram Post](https://www.instagram.com/p/COJssWDApi1/?utm_source=ig_web_copy_link) 📹[Winter 2021 Project Motage](https://youtu.be/QcfH-Z_LCM8?t=35) on youtube.
 
 ---
